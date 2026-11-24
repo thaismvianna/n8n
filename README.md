@@ -14,4 +14,4 @@ Primeiro projeto desenvolvido durante meus estudos de automação com n8n.
 - Integração com Google Sheets.
 - Uso de memória e ferramentas auxiliares.
 
-O arquivo `workflow.json` contém a exportação sanitizada do fluxo.
+O arquivo `workflow-sanitizado.json` contém a exportação sanitizada do fluxo.
