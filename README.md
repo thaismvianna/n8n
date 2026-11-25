@@ -1,26 +1,17 @@
 # Case 01 — Agente de IA com Google Sheets
 
-## Objetivo
-Desenvolver um agente de IA utilizando o n8n, integrado ao Google Sheets, para demonstrar uma automação com interação por chat.
+<p align="center">
+  <img src="01-agent-ia-google-sheets/imagens/workflow-case1.png" alt="Workflow do Case 01" width="750">
+</p>
 
-## Ferramentas utilizadas
-- n8n Cloud
-- AI Agent
-- Groq Chat Model
-- Google Sheets
+Primeiro projeto desenvolvido durante meus estudos de automação com n8n.
 
-## Funcionamento
-O fluxo utiliza um agente de IA conectado ao modelo da Groq e ao Google Sheets, permitindo interações por meio de um chat.
+**Ferramentas:** n8n Cloud, AI Agent, Groq e Google Sheets.
 
-## Aprendizados
-- Criação de workflows no n8n
-- Configuração de um AI Agent
-- Integração com modelo de linguagem (LLM)
-- Conexão com Google Sheets
-- Configuração de gatilhos e execução de workflows
+**O que pratiquei:**
+- Criação de workflows.
+- Configuração de agente de IA.
+- Integração com Google Sheets.
+- Uso de memória e ferramentas auxiliares.
 
-## Arquivo
-`workflow.json` — exportação do fluxo desenvolvido durante os estudos.
-
-## Observação
-Projeto desenvolvido para fins de aprendizado, com base nas aulas de um curso introdutório de n8n.
+O arquivo `workflow-sanitizado.json` contém a exportação sanitizada do fluxo.
